@@ -1,0 +1,12 @@
+{
+  "name": "aoc-2021",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Solutions to Advent of Code 2021",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolasdion/aoc-2021.git"
+  },
+  "author": "Dion Susanto",
+  "license": "MIT"
+}
